@@ -4,9 +4,7 @@ This project implements several Java methods that allow search engines to filter
 The Java methods implemented allow the search engine to
 
 1)Crawl and Index
-
 2)Rank
-
 3)Search
 
 The main objectives of this project 
