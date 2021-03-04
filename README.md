@@ -2,12 +2,11 @@
 This project implements several Java methods that allow search engines to filter out non relevant results. 
 
 The Java methods implemented allow the search engine to
-
 1)Crawl and Index
 2)Rank
 3)Search
 
-The main objectives of this project 
+The main objectives of this project were 
 1) Explore the portions of the web with a prebuilt database
 2) Build an index containing keywords in every website visited
 3) Analyze the structure of the webgraph determining priority of the website 
