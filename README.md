@@ -1,11 +1,14 @@
 # Search-Engine-Features
 This project implements several Java methods that allow search engines to filter out non relevant results. 
 
+
 The Java methods implemented allow the search engine to
 
-A)Crawl and Index
-B)Rank
-C)Search
+ A)Crawl and Index
+ 
+ B)Rank
+ 
+ C)Search
 
 The main objectives of this project were 
 1) Explore the portions of the web with a prebuilt database
